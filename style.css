@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://cdn.statically.io/img/codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg?f=webp&w=1440.jpg?f);
+}
+#form{
+    background-color: antiquewhite;
+    width: 25%;
+    margin: 120px auto;
+    padding: 50px;
+    border-radius: 6px;
+}
+h2.Name{
+    font-family: 'Times New Roman', Times, serif;
+    color: purple;
+    font-size: 15pt;
+    font-style: bold;
+}
+h2.Enrollment{
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    font-size: 15pt;
+    font-style: bold;
+}
+h2.Section{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 15pt;
+    font-style: bold;
+}
